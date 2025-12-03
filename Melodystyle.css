@@ -1,0 +1,56 @@
+
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    h1 {
+        margin-left: 20px;
+        margin-right: 20px;
+        border-left: 4px solid blue;
+        border-bottom: 4px solid blue;
+        padding-left: 5px;
+        padding-bottom: 5px;
+    }
+    
+    h1.center {
+        text-align: center;
+    }
+    #box {
+        width: 200px;
+        border: 1px solid black;
+        float: right;
+        margin-right: 20px;
+        margin-left: 20px;
+        margin-bottom: 10px;
+        text-align: center;
+        background: #cff;
+    }
+    p.center {
+        text-align: center;
+        color: red;
+    }
+    p.large {
+        font-size: 300%;
+    }
+    h2.center {
+        text-align: center;
+        color: blue;
+    }
+    h2.large {
+        font-size: 350%;
+    }
+
+   </h1><class>"center">Melody Drumline</h1>
+
+        
+        <p class="center">Please find below our practice schedule and a picture of the permission slip needed to participate</p>
+    </h1>
+    <h2 class="center large">Practice Schedule</h2>
+    <!-- Other content would go here -->
+</body>
+   
+
